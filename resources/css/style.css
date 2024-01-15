@@ -1,0 +1,21 @@
+h1 {font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+html {
+    background-color: black
+}
+
+body{
+    text-align: center
+}
+
+a:link {
+  color: aquamarine
+}
+
+a:visited {
+    color: indianred
+}
