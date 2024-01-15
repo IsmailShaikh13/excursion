@@ -6,11 +6,11 @@ h1 {font-family: Verdana, sans-serif;
 
 html {
     background-color: black;
-    text-align: center
+    text-align: center;
 }
 
 body{
-    text-align: center
+    text-align: center;
 }
 
 
@@ -40,3 +40,15 @@ h2 {
     font-size: 16px;
 }
 
+
+.imgphone {
+    
+}
+
+.imgcamp {
+    
+}
+
+footer {
+    text-align: right;
+}
